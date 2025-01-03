@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sindhu S</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sindhusgowda12&label=Profile%20views&color=0e75b6&style=flat" alt="sindhusgowda12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sindhusgowda12" alt="sindhusgowda12" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures and Algorithms, Java Frameworks, and more**
 
 - 👯 I’m looking to collaborate on **Innovative Java Projects or Data Structures and Algorithms Challenges**
