@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sindhusgowda12" alt="sindhusgowda12" /></a> </p>
 
-- 🔭 I’m currently working on **Language translation- Accuracy System**
-
-- 🌱 I’m currently learning **System Design, Data Structures and Algorithms, Java Frameworks, and more**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Java Frameworks, and more**
 
 - 👯 I’m looking to collaborate on **Innovative Java Projects or Data Structures and Algorithms Challenges**
-
-- 🤝 I’m looking for help with **System Design Best Practices and Advanced Java Frameworks**
 
 - 💬 Ask me about **Java, Data Structures & Algorithms, LeetCode Challenges**
 
