@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sindhu S 👋</h1>
-<h3 align="center">Final Year ISE Student | Aspiring Software Engineer | Passionate about Java & DSA</h3>
+<h3 align="center">Aspiring Software Engineer | Passionate about Java & DSA</h3>
 
 - 🎓 I'm currently pursuing my **B.E. in Information Science & Engineering** at SMVIT, Bengaluru  
 - 💻 Proficient in **Java, Data Structures & Algorithms**, and **Full Stack Web Development**
