@@ -9,8 +9,6 @@
 
 ---
 
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**  
@@ -38,10 +36,11 @@
 ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=flat)
 
 **Cloud & Integration:**  
-REST APIs, JWT, NodeMailer, node-cron
+🌐 REST APIs, JWT, NodeMailer, node-cron
 
 **Soft Skills:**  
-Problem Solving, Communication, Agile, Scrum
+🧠 Problem Solving, Communication, Agile, Scrum
 
+---
 
 ✨ Let's connect and build amazing things together!
