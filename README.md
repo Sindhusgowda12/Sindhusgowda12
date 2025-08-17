@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sindhu S</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hi there, I'm Sindhu S 👋</h1>
+<h3 align="center">Final Year ISE Student | Aspiring Software Engineer | Passionate about Java & DSA</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Java Frameworks, and Web Development**
-- 👯 I’m looking to collaborate on **Java Projects and DSA Challenges**
-- 💬 Ask me about **Java, DSA, LeetCode**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sindhu-s-a28818280/) | [Email](mailto:sindhus8012@gmail.com)
-- ⚡ Fun fact: I love turning ideas into real-world projects 💡🚀
+- 🎓 I'm currently pursuing my **B.E. in Information Science & Engineering** at SMVIT, Bengaluru  
+- 💻 Proficient in **Java, Data Structures & Algorithms**, and **Full Stack Web Development**
+- 🌱 Currently enhancing my skills in **Spring Boot, MongoDB, and System Design**
+- 👩‍💻 Actively solving problems on **LeetCode** and building innovative **Java-based projects**
+- 💬 I enjoy discussing topics like **Java, DSA, LeetCode challenges, and Backend Development**
+- 🚀 Open to **Internships** and **Entry-Level Software Development Roles**
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sindhu-s-a28818280/)
+
 
 ---
 
