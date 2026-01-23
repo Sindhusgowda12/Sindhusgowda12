@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Passionate about Java & DSA</h3>
 
 - 🎓 I'm currently pursuing my **B.E. in Information Science & Engineering** at SMVIT, Bengaluru  
-- 💻 Proficient in **Java, Data Structures & Algorithms**, and **Full Stack Web Development**
+- 💻 Proficient in **Java, Python, Data Structures & Algorithms**, and **Full Stack Web Development**
 - 🌱 Currently enhancing my skills in **Spring Boot, MongoDB, and System Design**
 - 👩‍💻 Actively solving problems on **LeetCode** and building innovative **Java-based projects**
 - 💬 I enjoy discussing topics like **Java, DSA, LeetCode challenges, and Backend Development**
