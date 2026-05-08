@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Frontend & Java Developer</h3>
 
 - 🎓 I'm currently pursuing my **B.E. in Information Science & Engineering** at SMVIT, Bengaluru  
-- 💻 Proficient in **Python, Java, Data Structures & Algorithms**, and **Frontend Web Development**  
+- 💻 Proficient in **Java, Data Structures & Algorithms**, and **Frontend Web Development**  
 - 🎨 Experience in **HTML, CSS, JavaScript and basic React.js** for UI/UX implementation  
 - 🌱 Currently enhancing my skills in **Spring Boot, MongoDB, and System Design**  
 - 👩‍💻 Actively solving problems on **LeetCode** and building **Java & Web-based projects**  
