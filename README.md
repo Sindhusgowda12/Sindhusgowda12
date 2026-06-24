@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm Sindhu S 👋</h1>
 <h3 align="center">Aspiring Software Engineer | Frontend & Java Developer</h3>
 
-- 🎓 I'm currently pursuing my **B.E. in Information Science & Engineering** at SMVIT, Bengaluru  
+- 🎓 I recently completed my **B.E. in Information Science & Engineering** from SMVIT, Bengaluru  
 - 💻 Proficient in **Java, Data Structures & Algorithms**, and **Frontend Web Development**  
-- 🎨 Experience in **HTML, CSS, JavaScript and basic React.js** for UI/UX implementation  
-- 🌱 Currently enhancing my skills in **Spring Boot, MongoDB, and System Design**  
+- 🎨 Experience in **HTML, CSS, JavaScript and basic React.js** for UI/UX implementation   
 - 👩‍💻 Actively solving problems on **LeetCode** and building **Java & Web-based projects**  
 - 💬 I enjoy discussing topics like **Frontend Development, Java, DSA, and Software Engineering**  
 - 🚀 Open to **Frontend Intern**, **Software Trainee**, and **Entry-Level Developer Roles**
