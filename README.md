@@ -3,8 +3,7 @@
 <h3 align="center">Software Product Developer Apprentice at Target | Java & Backend Developer | Software Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sindhu-s-a28818280/">LinkedIn</a> •
-  <a href="https://github.com/">GitHub</a>
+  <a href="https://www.linkedin.com/in/sindhu-s-a28818280/">LinkedIn</a>
 </p>
 
 ---
@@ -34,6 +33,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat\&logo=postgresql\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat\&logo=c%2B%2B\&logoColor=white)
 
 **Backend & Frameworks**
 
